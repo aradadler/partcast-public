@@ -3,7 +3,7 @@ node_modules/
 package-lock.json
 
 # Assignment PDF (do not share publicly)
-202603_PM_Assignment.pdf
+main task.pdf
 prompts.txt
 
 # Build scripts (internal tooling, not part of deliverable)
