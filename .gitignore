@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Assignment PDF (do not share publicly)
+202603_PM_Assignment.pdf
+prompts.txt
+
+# Build scripts (internal tooling, not part of deliverable)
+scripts/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.cursor/
+*.pptx
